@@ -1,0 +1,23 @@
+[
+	{
+		'sbatagnumber':'E12300',
+		'serialnumber':'STX403918ML',
+		'assettype':'Laptop',
+		'brand':'Toshiba',
+		'model':'Dynabook E20'
+	},
+{
+		'sbatagnumber':'F35000',
+		'serialnumber':'VPP9991P',
+		'assettype':'Laptop',
+		'brand':'HP',
+		'model':'EliteBook 830 G8'
+	},
+{
+		'sbatagnumber':'L22508',
+		'serialnumber':'30492JH9102',
+		'assettype':'Laptop',
+		'brand':'Dell',
+		'model':'Latitude 7400'
+	}
+]
